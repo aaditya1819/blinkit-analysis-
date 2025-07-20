@@ -1,3 +1,5 @@
+![Blinkit Project Cover](./cover.png)
+
 # Blinkit Analysis 📊
 
 This project performs a comprehensive data analysis of Blinkit’s sales data using Python (Pandas, Matplotlib, Seaborn) and visualizations using Power BI.
