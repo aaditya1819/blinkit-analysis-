@@ -1,4 +1,4 @@
-![Blinkit Project Cover](./cover.png)
+
 
 # Blinkit Analysis 📊
 
